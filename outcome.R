@@ -8,4 +8,3 @@ outcome[,11] <- as.numeric(outcome[,11],na.rm = TRUE)
 
 hist(outcome[,11], xlab = "Deaths", main = "Hospital 30-Day Death (Mortality) Rates from Heart Attack")
 
-Print("hello")
